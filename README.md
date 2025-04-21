@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Technology Admin • Retail Investor 
+🏢 Tech Admin
 
 💻 Focused on Technical Design and Implementation
 
