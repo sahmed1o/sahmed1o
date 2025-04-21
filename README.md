@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Tech Admin
+🏢 Information Tech Admin
 
 💻 Focused on Technical Design and Implementation
 
