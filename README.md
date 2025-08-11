@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Information Tech Admin
+🏢 Open Source Developer
 
 💻 Focused on Technical Design and Implementation
 
