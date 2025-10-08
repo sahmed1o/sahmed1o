@@ -4,9 +4,9 @@
 ### Bio:
 🏢 Open Source Developer
 
-💻 Focused on Technical Design and Implementation
+💻 Additive Manufacturing & Commerce
 
-🌐 Specialized in Back-End Development
+🌐 Open Source Dev / IT Admin
 
 📍 Canada
 
