@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Open Source Developer
+🏢 Open Source Dev
 
 💻 Additive Manufacturing & Commerce
 
